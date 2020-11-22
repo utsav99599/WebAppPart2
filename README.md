@@ -14,5 +14,5 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 # Query Data
 
-![Query](screenshots/SQL Data.JPG)
+![Query](screenshots/Query.JPG)
 
