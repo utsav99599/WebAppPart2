@@ -6,13 +6,13 @@
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flash, MySQL
 
 # Postman Data
-![Data Table in Pycharm](screenshots/postman.JPG)
+![Postman](screenshots/postman.JPG)
 
 # Part 2 Local Host Data
 
-![Data Table in Pycharm](screenshots/Data.JPG)
+![Local Host Data](screenshots/Data.JPG)
 
 # Query Data
 
-![Data Table in Pycharm](screenshots/SQL Data.JPG)
+![Query](screenshots/SQL Data.JPG)
 
